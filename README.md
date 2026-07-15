@@ -2,7 +2,7 @@
 
 A Power BI dashboard applying RFM (Recency, Frequency, Monetary) analysis to segment 500 customers based on ~3,350 transactions, identifying which customers to reward, retain, or win back.
 
-![Dashboard overview](dashboard_overview.png)
+![Dashboard overview](dashboard_overview_1.png)
 
 ## Overview
 
